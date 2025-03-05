@@ -1,5 +1,5 @@
 # Crypto Price Tracker
-## 📂 Struktur Folder
+## Struktur Folder
 ```
 /crypto-tracker
 ├── app.py                 
@@ -11,7 +11,7 @@
 │   ├── script.js         
 ```
 
-## 🚀 Cara Menjalankan
+## Cara Run Program
 1. **Pastikan Python telah terinstal**
 2. **Buat Virtual Environment**
    ```bash
@@ -39,7 +39,7 @@
    http://127.0.0.1:5000/
    ```
 
-## 📸 Testing API dengan Postman
+## Testing API dengan Postman
 ### Endpoint: `/crypto/<coin>`
 
 Gunakan Postman atau cURL untuk melakukan testing:
