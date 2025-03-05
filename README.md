@@ -3,9 +3,10 @@
 ```
 /crypto-tracker
 ├── app.py                 
-├── requirements.txt       
+├── requirements.txt
+├── .gitignore        
 ├── templates/
-│   ├── 
+│   ├── index.html
 ├── static/
 │   ├── style.css         
 │   ├── script.js         
